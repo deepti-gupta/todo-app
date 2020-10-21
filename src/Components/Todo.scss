@@ -1,0 +1,9 @@
+.todo {
+  text-align: initial;
+  &_text {
+    margin-left: 2px;
+  }
+  .completed {
+    text-decoration: line-through;
+  }
+}
